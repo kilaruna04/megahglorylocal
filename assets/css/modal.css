@@ -1,0 +1,35 @@
+/* =========================
+   MODAL CSS
+   Modal, Detail Card
+   ========================= */
+
+.modal-content {
+  background: rgba(20, 30, 60, 0.95);
+  color: #fff;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+}
+.modal-header {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: #fff; border-radius: 14px 14px 0 0;
+}
+.modal-header .modal-title {
+  font-weight: 700; display: flex; align-items: center; gap: 8px;
+}
+.modal-body { padding: 20px; }
+
+/* Detail Card */
+.detail-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 18px 20px;
+  border-radius: 12px;
+  line-height: 1.6;
+}
+.detail-card p { margin: 6px 0; font-size: 0.95rem; }
+.detail-card strong { color: #4da3ff; margin-right: 6px; }
+
+/* Pastikan modal selalu di atas */
+.modal { z-index: 2000 !important; }
+.modal-backdrop { z-index: 1900 !important; }

@@ -1,0 +1,20 @@
+[18-Sep-2025 15:17:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function e() in D:\xampp\htdocs\megahglory\Admin\Pembelian\tambah_pembelian.php:120
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\megahglory\Admin\Pembelian\tambah_pembelian.php on line 120
+[18-Sep-2025 15:23:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function e() in D:\xampp\htdocs\megahglory\Admin\Pembelian\tambah_pembelian.php:120
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\megahglory\Admin\Pembelian\tambah_pembelian.php on line 120
+[18-Sep-2025 22:37:37 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in D:\xampp\htdocs\megahglory\Admin\Pembelian\detail_pembelian.php on line 101
+[18-Sep-2025 22:55:17 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in D:\xampp\htdocs\megahglory\Admin\Pembelian\detail_pembelian.php on line 101
+[18-Sep-2025 23:42:42 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in D:\xampp\htdocs\megahglory\Admin\Pembelian\detail_pembelian.php on line 101
+[18-Sep-2025 23:43:09 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in D:\xampp\htdocs\megahglory\Admin\Pembelian\detail_pembelian.php on line 101
+[18-Sep-2025 23:46:45 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in D:\xampp\htdocs\megahglory\Admin\Pembelian\detail_pembelian.php on line 101
+[19-Sep-2025 00:33:35 Asia/Jakarta] PHP Warning:  include(../header.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\megahglory\Admin\Service\service.php on line 3
+[19-Sep-2025 00:33:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\megahglory\Admin\Service\service.php on line 3
+[19-Sep-2025 00:33:35 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'megw6638_servicedesk.penjualan' doesn't exist in D:\xampp\htdocs\megahglory\Admin\Service\service.php:11
+Stack trace:
+#0 D:\xampp\htdocs\megahglory\Admin\Service\service.php(11): mysqli->query('SELECT s.*, p.n...')
+#1 {main}
+  thrown in D:\xampp\htdocs\megahglory\Admin\Service\service.php on line 11

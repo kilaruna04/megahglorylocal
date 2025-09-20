@@ -1,0 +1,15 @@
+[07-Sep-2025 15:04:33 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 3
+[07-Sep-2025 15:04:33 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 3
+[07-Sep-2025 15:04:33 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 3
+[07-Sep-2025 15:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 16
+[08-Sep-2025 10:32:51 UTC] PHP Warning:  Undefined array key "kategori" in /home/megw6638/public_html/Service/Admin/Laporan/laporan_stok.php on line 30
+[08-Sep-2025 10:32:55 UTC] PHP Warning:  include(../config.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 3
+[08-Sep-2025 10:32:55 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 3
+[08-Sep-2025 10:32:55 UTC] PHP Warning:  Undefined variable $conn in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 16
+[08-Sep-2025 10:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Laporan/laporan_gabungan.php on line 16

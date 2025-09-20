@@ -1,0 +1,90 @@
+/* =========================
+   PRODUK CSS
+   Produk Grid & Card Modern
+   ========================= */
+
+.produk-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 15px;
+}
+
+.produk-card-modern {
+  background: rgba(20, 30, 60, 0.65);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(77,163,255,0.25);
+  border-radius: 16px;
+  padding: 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+.produk-card-modern::before {
+  content: "";
+  position: absolute;
+  top: -2px; left: -2px; right: -2px; bottom: -2px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #4da3ff, #1aa798, #6a11cb);
+  opacity: 0; transition: opacity 0.4s; z-index: 0;
+}
+.produk-card-modern:hover::before { opacity: 1; }
+.produk-card-modern > * { position: relative; z-index: 1; }
+.produk-card-modern:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 12px 35px rgba(77,163,255,0.6);
+}
+
+/* Gambar Produk */
+.produk-card-modern img,
+.produk-card-modern .no-image {
+  width: 100%; height: 140px; object-fit: cover;
+  border-radius: 12px; margin-bottom: 8px;
+}
+.produk-card-modern .no-image {
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(255,255,255,0.05);
+  border: 1px dashed #4da3ff; color: #ccc; font-size: 0.9rem;
+}
+.produk-card-modern .no-image i { margin-right: 6px; color: #4da3ff; }
+
+/* Detail Produk */
+.produk-card-modern .kode {
+  font-size: 0.7rem; font-weight: 600;
+  color: #4da3ff; margin-bottom: 4px;
+}
+.produk-card-modern .nama {
+  font-size: 0.95rem; font-weight: 700;
+  color: #fff; margin-bottom: 3px;
+}
+.produk-card-modern .kategori {
+  font-size: 0.8rem; font-style: italic; color: #aaa; margin-bottom: 6px;
+}
+.produk-card-modern .harga-pokok { color: #bbb; font-size: 0.9rem; }
+.produk-card-modern .harga-jual { color: #28a745; font-weight: 600; }
+.produk-card-modern .harga-online { color: #17a2b8; font-weight: 600; }
+.produk-card-modern .stok {
+  margin-top: 4px; font-weight: 600; font-size: 0.85rem; color: #ffc107;
+}
+
+/* Tombol Aksi */
+.produk-card-modern .aksi {
+  display: flex; justify-content: center; gap: 6px;
+  flex-wrap: wrap; margin-top: 8px;
+}
+.produk-card-modern .aksi .btn {
+  border-radius: 50px; padding: 4px 10px;
+  font-size: 0.75rem; font-weight: 600;
+  border: none; display: flex; align-items: center; gap: 5px;
+  transition: all 0.3s ease;
+}
+.produk-card-modern .aksi .btn-primary { background: #4da3ff; color: #fff; }
+.produk-card-modern .aksi .btn-warning { background: #ffc107; color: #000; }
+.produk-card-modern .aksi .btn-success { background: #28a745; color: #fff; }
+.produk-card-modern .aksi .btn:hover {
+  transform: translateY(-2px); opacity: 0.9;
+}

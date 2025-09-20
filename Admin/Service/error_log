@@ -1,0 +1,174 @@
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:34 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:38 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:43 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:50 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:08 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:17 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 2
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:41:31 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 3
+[07-Sep-2025 10:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/service.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/service.php on line 11
+[07-Sep-2025 10:46:50 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 10:46:50 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 10:46:50 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:58:49 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:58:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:34 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[07-Sep-2025 14:59:36 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:37 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:37 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 14:59:37 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:37 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:37 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 14:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[07-Sep-2025 15:04:19 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 15:04:19 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 15:04:19 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(../../../config.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 15:04:20 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[07-Sep-2025 15:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[08-Sep-2025 07:06:08 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 07:06:08 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 07:06:09 UTC] PHP Warning:  include(../../../config.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[08-Sep-2025 07:06:09 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[08-Sep-2025 07:06:09 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[08-Sep-2025 07:06:09 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[08-Sep-2025 07:06:09 UTC] PHP Warning:  Undefined variable $conn in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[08-Sep-2025 07:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[08-Sep-2025 10:36:34 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:36:34 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:36:35 UTC] PHP Warning:  include(../../../config.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[08-Sep-2025 10:36:35 UTC] PHP Warning:  include(): Failed opening '../../../config.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 2
+[08-Sep-2025 10:36:35 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[08-Sep-2025 10:36:35 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 3
+[08-Sep-2025 10:36:35 UTC] PHP Warning:  Undefined variable $conn in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[08-Sep-2025 10:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/megw6638/public_html/Service/Admin/Service/laporan_service.php on line 21
+[08-Sep-2025 10:36:37 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:36:37 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:37:43 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:37:43 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:38:06 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:38:06 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:38:25 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 10:38:25 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 11:44:06 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[08-Sep-2025 11:44:06 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 04:55:24 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 04:55:24 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 04:56:00 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 04:56:00 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 13:17:02 UTC] PHP Warning:  include(../../footer.php): Failed to open stream: No such file or directory in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
+[09-Sep-2025 13:17:02 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/megw6638/public_html/Service/Admin/Service/service.php on line 48
