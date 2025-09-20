@@ -1,0 +1,17 @@
+# Log file
+*.log
+error_log.log
+
+# Database dump
+*.sql
+
+# Sistem lokal
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Composer / Node (jika nanti dipakai)
+vendor/
+node_modules/
